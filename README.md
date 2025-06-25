@@ -1,2 +1,0 @@
-# numachat.github.io
-intro
